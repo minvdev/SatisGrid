@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+	--color-background: #020618; /* slate-950 */
+	--color-primary: #ffdf20; /* yellow-300 */
+	--color-secondary: #ffb900; /* amber-400 */
+	--color-muted: #99a1af; /* gray-600 (#4a5565) -> gray-400 (#99a1af) */
+	--color-subtle: #99a1af; /* gray-400 */
+	--color-surface: #292524; /* stone-800 */
+	--color-border: #cad5e2; /* slate-300 */
+}
